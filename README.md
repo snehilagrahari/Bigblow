@@ -14,8 +14,6 @@ BigBlow make your lifestyle easy and Awesome!
  For Creating the Ui we use Reactjs, Chakra, Redux, Css and uiverse also.
  
  
- # Frontend
- 
  # Landing Page
  
  ![Screenshot (243)](https://user-images.githubusercontent.com/105977022/221477963-c98dc629-b351-4b07-b905-72813d035ade.png)
