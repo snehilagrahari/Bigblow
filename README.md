@@ -5,8 +5,6 @@ Big Blow is one of the largest online grocery super market in India.
 Customers order groceries through online website which will be delivered to their doorstep.
 BigBlow make your lifestyle easy and Awesome!
 
-# Documentation
-
 # Backend
  
  For Backend we use Nodejs, MongoDb, Mongoose and Express js.
@@ -15,37 +13,6 @@ BigBlow make your lifestyle easy and Awesome!
  # Frontend
  For Creating the Ui we use Reactjs, Chakra, Redux, Css and uiverse also.
  
- # Hi, I'm Omesh! 👋
- 
- # Omesh Dubey - Team Lead
- 
- ## omesh managed the backend of User and Admin
- ## Register and login of Admin
- ## the Admin section. (UI)
- 
- # Snehil Agrahari
- 
- snehil is responsible for
- 
- ## backend of product and order
- ## the cart page and payment page
- 
- # Akash More
- 
- Akash is responsible for
- ## login and signup page of user
- 
- # Mushtaq Ansari
- 
- mushtaq is responsible for
- ## whole landing page (Footer and Navbar)
- 
- # Shivam Dubey
- 
- shivam is responsible for 
- 
- ## product page
- ## add to cart functionality with sorting and filtering
  
  # Frontend
  
@@ -95,5 +62,5 @@ BigBlow make your lifestyle easy and Awesome!
 
 # Thank you if you read full documentation.
 # You are awesome as we are.
-# We will meet at the next project. Bye :) gulabi dil.
+# We will meet at the next project. Bye :) .
  
